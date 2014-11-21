@@ -7,6 +7,7 @@
       \/___/  \/_/\/_/\/__,_ /\/____/ \/_/ \/___/  \/____/\/___/  \/_/ \/____/\/_//\ \_\ \/___/
                                                                                   \ \____/
                                                                                    \/___/
+[![Build Status](http://130.211.161.232:9000/badge/zfy0701/underscore.svg)](https://cloud.google.com/)
 
 Underscore.js is a utility-belt library for JavaScript that provides
 support for the usual functional suspects (each, map, reduce, filter...)
